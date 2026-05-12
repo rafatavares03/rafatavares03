@@ -2,8 +2,7 @@
 
 ## 🙋🏽‍♂️ Sobre mim
 
-- Estudante de ciência da computação na UFSJ, atualmente no 6º período.
-- Apredendo docker e java spring.
+- Graduando em ciência da computação na UFSJ.
 
 ## 📊 Estatísticas do GitHub
 
