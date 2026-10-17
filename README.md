@@ -5,11 +5,24 @@
 - Graduando em ciência da computação na UFSJ.
 
 ## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafatavares03&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafatavares03&layout=compact&theme=tokyonight" height="160"/>
-</p>
+  <p align="center">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api?username=rafatavares03&include_all_commits=true&theme=aura"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api?username=rafatavares03&include_all_commits=true&theme=aura" alt="Top Langs" />
+    </picture>
+  </p>
+  <p align="center">
+    <picture>
+      <source
+          srcset="https://github-stats-extended.vercel.app/api/top-langs?username=rafatavares03&layout=compact&hide_title=true&langs_count=4&theme=aura)rue&theme=aura"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=rafatavares03&layout=compact&hide_title=true&langs_count=4&theme=aura)rue&theme=aura" alt="Top Langs" />
+    </picture>
+  </p>
 
 ## 📫 Me encontre em outras redes
 <p align="center">
